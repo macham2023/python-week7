@@ -1,4 +1,4 @@
-#The extend function in python : 
+#The extend method in python : 
 # extend(): It adds the specified list elements (or any iterable) to the end of the current list.
 
 
